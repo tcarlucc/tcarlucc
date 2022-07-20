@@ -8,7 +8,10 @@
 <h3 align="center">
     <b>Languages and Skills: </b>
     <br/>
-    <p max-width="50%">
+
+</h3>
+
+<p align="center">
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
         width="60" height="60" /> </a>
@@ -40,5 +43,3 @@
         <a href="https://www.adobe.com/products/premiere.html">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/premierepro/premierepro-original.svg" width="60" height="60"></a>
     </p>
-
-</h3>
