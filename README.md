@@ -3,12 +3,8 @@
     <b>C.S. Student at the University of Vermont</b>
 </h3>
 
-<br/>
-
 <h3 align="center">
     <b>Languages and Skills: </b>
-    <br/>
-
 </h3>
 
 <p align="center">
@@ -43,3 +39,4 @@
         <a href="https://www.adobe.com/products/premiere.html">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/premierepro/premierepro-original.svg" width="60" height="60"></a>
     </p>
+<h3>
