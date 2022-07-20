@@ -1,7 +1,4 @@
 <h1 align="center">Thomas Carlucci</h1>
-<h3 align="center">
-    <b>C.S. Student at the University of Vermont</b>
-</h3>
 
 <h3 align="center">
     <b>About Me: </b>
