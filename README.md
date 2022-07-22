@@ -46,4 +46,5 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/premierepro/premierepro-original.svg" width="60" height="60"></a>
     </p>
 
-![Repository Stats](https://github-readme-stats.vercel.app/api?username=tcarlucc&show_icons=true)
+![Repository Stats](https://github-readme-stats.vercel.app/api?username=tcarlucc&show_icons=true&theme=dark)
+![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tcarlucc&theme=dark)
