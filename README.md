@@ -13,6 +13,9 @@
     <b>Languages and Skills: </b>
 </h3>
 
+![Repository Stats](https://github-readme-stats.vercel.app/api?username=tcarlucc&show_icons=true&hide=prs,contribs&theme=dark)
+
+
 <p align="center">
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
@@ -47,5 +50,4 @@
     </p>
 
 ![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tcarlucc&theme=dark)
-![Repository Stats](https://github-readme-stats.vercel.app/api?username=tcarlucc&show_icons=true&hide=prs,contribs&theme=dark)
 
