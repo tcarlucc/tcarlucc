@@ -5,8 +5,9 @@
 </h3>
 
 <p>
-    Hey there! My name is Thomas Carlucci, I am currently studying for a B.S. in Computer Science
-    at the University of Vermont. 
+    Hey there! My name is Thomas Carlucci, I am a cybersecurity engineer with a B.S. in Computer Science from The University of Vermont. 
+</p>
+<p> My interests revolve around cybersecurity, artificial intelligence, and software engineering.
 </p>
 
 
